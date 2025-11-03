@@ -1,6 +1,4 @@
-##<!-- Header / Banner -->
-
-<img src="https://i.ibb.co/X5LcmcV/github-banner-sample.png" width="100%" alt="Banner" />
+##![banner](https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=200&section=header&text=Vo%20Vinh&fontSize=50&fontColor=fff)
 
 # 👋 Xin chào, mình là **Võ Thành Vinh**
 
