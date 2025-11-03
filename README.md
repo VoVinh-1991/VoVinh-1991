@@ -2,7 +2,7 @@
 
 # 👋 Xin chào, mình là **Võ Thành Vinh**
 
-> *"Không ngừng học hỏi, không ngừng sáng tạo."*
+> *"Ăn code, ngủ code, đi code..."*
 
 🎯 Mình là **Front-end Developer** yêu thích công nghệ, thiết kế web và trải nghiệm người dùng.
 💡 Mục tiêu của mình là tạo ra những website hiện đại, mượt mà và thân thiện.
