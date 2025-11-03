@@ -4,8 +4,8 @@
 
 > *"Ăn code, ngủ code, đi code..."*
 
-🎯 Mình là **Front-end Developer** yêu thích công nghệ, thiết kế web và trải nghiệm người dùng.
-💡 Mục tiêu của mình là tạo ra những website hiện đại, mượt mà và thân thiện.
+🎯 Mình là giáo viên hiện đang công tác tại trường THPT Phước Thiền, môn giảng dạy Tin học.
+💡 Mục tiêu của mình là học thêm các ngôn ngữ lập trình để tạo ra các sản phẩm mới.
 
 ---
 
@@ -14,7 +14,7 @@
 * 🌍 Sống tại Việt Nam
 * 💻 Tự học và phát triển các dự án web cá nhân
 * 🔭 Đang tìm hiểu thêm về **ReactJS**, **Python** và **AI ứng dụng**
-* 🎨 Sở thích: Thiết kế UI/UX, dựng video và chụp ảnh ngoài trời
+* 🎨 Sở thích: Đi câu cá và đọc sách...
 
 ---
 
@@ -42,6 +42,3 @@
 > *"Code không chỉ để tạo ra sản phẩm, mà còn để tạo ra giá trị."*
 
 ---
-
-*(📸 Gợi ý: bạn có thể thay link banner ở dòng đầu bằng ảnh của riêng bạn — kích thước 1280x400 là đẹp nhất.)*
-
