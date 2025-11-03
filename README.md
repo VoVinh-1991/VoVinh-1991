@@ -1,4 +1,4 @@
-##![banner](https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=200&section=header&text=Vo%20Vinh&fontSize=50&fontColor=fff)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=200&section=header&text=Vo%20Vinh&fontSize=50&fontColor=fff)
 
 # 👋 Xin chào, mình là **Võ Thành Vinh**
 
